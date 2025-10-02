@@ -12,4 +12,4 @@ jobs:
 
     steps:
       - name: Trigger n8n webhook
-        run: curl -fsSL "https://n8n.beauget.fr/webhook-test/d81232cf-0467-4dd0-9d23-2d52acc5cabf"
+        run: curl -fsSL "https://n8n.beauget.fr/webhook/d81232cf-0467-4dd0-9d23-2d52acc5cabf"
