@@ -95,6 +95,7 @@ const config = {
       },
 
       prism: {
+        additionalLanguages: ["csharp"],
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
