@@ -1,22 +1,16 @@
 gabriel:
   name: Gabriel Maillard
-  url: https://www.linkedin.com/in/gabriel-maillard/
   image_url: https://drive.beauget.fr/s/crazy_teacher_gabriel/download
+  
 
 audric:
   name: Audric Fullhardt
-  url: https://www.linkedin.com/in/audric-fullhardt/
   image_url: https://drive.beauget.fr/s/crazy_teacher_audric/download
-  page: true
 
 valentin:
   name: Valentin Beauget
-  url: https://www.linkedin.com/in/valentin-beauget/
   image_url: https://drive.beauget.fr/s/crazy_teacher_valentin/download
-  page: true
 
 marius:
   name: Marius Nogueron
-  url: https://www.linkedin.com/in/marius-nogueron/
   image_url: https://drive.beauget.fr/s/crazy_teacher_marius/download
-  page: true
