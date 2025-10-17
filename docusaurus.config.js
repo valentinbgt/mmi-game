@@ -87,7 +87,7 @@ const config = {
         items: [
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/valentinbgt/crazy-teacher",
+            href: "https://github.com/Crazy-Teacher-Game",
             label: "GitHub",
             position: "right",
           },

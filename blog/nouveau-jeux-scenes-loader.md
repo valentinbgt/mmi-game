@@ -9,7 +9,7 @@ Optimisation de la CI/CD pour un déploiement en production plus rapide du site 
 
 ![optimisation CI/CD](/img/monsieur-glace.png)
 
-Cette dernière était hébergée sur mon site mon VPS, j'ai fait en sorte que le déploiement et le host soient sur mon serveur. Je VPS était trop lent et n'avait pas assez de place pour supporter la charge
+Cette dernière était hébergée sur mon site mon VPS, j'ai fait en sorte que le déploiement et le host soient sur mon serveur. Le VPS était trop lent et n'avait pas assez de place pour supporter la charge
 
 Implémentation de la logique pour le retour menu :
 
