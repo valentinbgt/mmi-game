@@ -16,7 +16,7 @@ FROM httpd:alpine
 # httpd serves files from /usr/local/apache2/htdocs by default; overwrite it with our build output
 COPY --from=builder /mmi-game/build/ /usr/local/apache2/htdocs/
 
-COPY ./httpd.conf /usr/local/apache2/conf/httpd.conf
+COPY ./.ci-cd/httpd.conf /usr/local/apache2/conf/httpd.conf
 
 EXPOSE 80
 
