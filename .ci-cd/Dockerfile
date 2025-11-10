@@ -1,7 +1,6 @@
-FROM debian:latest AS builder
+FROM node:19.5.0-alpine AS builder
 
-RUN apt-get update && apt-get upgrade -y \
-    && apt-get install -y npm
+#RUN apk add --no-cache npm
 
 COPY ../ /mmi-game
 WORKDIR /mmi-game
