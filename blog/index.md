@@ -20,4 +20,4 @@ Identification d'une liste non exhaustive de jeu potentiels.
 
 ![je](./minigames/imgs/je.png).
 
-> On aimerait en faire une vingtaine. test
+> On aimerait en faire une vingtaine.
