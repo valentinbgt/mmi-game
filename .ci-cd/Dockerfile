@@ -2,7 +2,7 @@ FROM node:19.5.0-alpine AS builder
 
 RUN apk add --no-cache npm
 
-COPY ../ /mmi-game
+COPY / /mmi-game
 WORKDIR /mmi-game
 
 RUN npm install
